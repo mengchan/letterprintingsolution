@@ -1,0 +1,19 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontSize": 12,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "files.eol": "\n",
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.fontSize": 11,
+    "javascript.format.enable": false,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "files.associations": {
+        "*.ejs": "html",
+        "*.json": "json"
+    }
+}
