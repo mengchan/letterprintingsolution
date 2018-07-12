@@ -1,0 +1,20 @@
+.txtsearch {
+    display: inline;
+}
+
+.searchcontain {
+    margin: 10px 17px 0;
+}
+
+#printsection li {
+    display: inline;
+}
+
+#letterstatus {
+    width: 50%;
+    display: inline;
+}
+
+#printsection {
+    margin: 10px 17px 0;
+}
